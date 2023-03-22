@@ -1,2 +1,2 @@
-# SIdeBar-Dashboard-React
+# SideBar-Dashboard-React
 Created with CodeSandbox
